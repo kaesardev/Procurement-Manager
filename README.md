@@ -9,7 +9,7 @@ Já os fornecedores são escolhidos por meio dos critérios de avaliação de me
 Para mais informações: (https://www.azi.com.br/blog/compras-governamentais-o-que-e/).
 
 ## Justificativa
-Processos licitatórios costumam exigir muito tempo, dinheiro e muita burocracia. A fim de otimizar este processo os órgãos públicos costumam realizar *"carona"* em processos de outros órgãos governamentais de abrangência equivalente ou superior à sua. O Instituto Federal de Pernambuco (IFPE), por exemplo, possui 16 campus, todos com autonomia administrativa, financeira e patrimonial, e cada um destes campi precisam se submeter ao ato de licitação para aquisição de bens, serviços e produtos. Tendo em vista que as necessidades dos órgãos não ocorrem de maneira simultânea são demandados esforços adicionais na comunicação e planejamento das aquisições conjuntas, principalmente, para bens variados em pequenos volumes. 
+Processos licitatórios costumam exigir muito tempo, dinheiro e burocracia. A fim de otimizar este processo os órgãos públicos costumam realizar *"carona"* em processos de outros órgãos governamentais de abrangência equivalente ou superior à sua. O Instituto Federal de Pernambuco (IFPE), por exemplo, possui 16 campus, todos com autonomia administrativa, financeira e patrimonial, e cada um destes campi precisam se submeter ao ato de licitação para aquisição de bens, serviços e produtos. Tendo em vista que as necessidades dos órgãos não ocorrem de maneira simultânea são demandados esforços adicionais na comunicação e planejamento das aquisições conjuntas, principalmente, para bens variados em pequenos volumes. 
 
 ## Equipe
 * **Júlio Barros** - *Modelador(Lider)* - [KaesarZ](https://github.com/KaesarZ)
