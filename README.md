@@ -59,7 +59,7 @@ Processos licitatórios costumam exigir muito tempo, dinheiro e burocracia. A fi
 
 ### Consultoria
 * **Carla Silva** - *Gestão de Processos de Negócio*
-* **Simones Santos** - *Sistemas de Gestão Empresarial*
+* **Simone Santos** - *Sistemas de Gestão Empresarial*
 * **Alexandre Vasconcelos** - *Planejamento de Gerenciamento de Projetos*
 
 ### Equipe
