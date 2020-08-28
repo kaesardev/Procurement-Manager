@@ -54,7 +54,7 @@ Processos licitatórios costumam exigir muito tempo, dinheiro e burocracia. A fi
 
 ## Stakeholders
 ### Cliente
-* **Marcus Eugênio** - *Diretor de Avaliação e Desenvolvimento de Tecnologia do IFPE*
+* **Marco Eugênio** - *Diretor de Avaliação e Desenvolvimento de Tecnologia do IFPE*
 * **Comunidade Acadêmica do IFPE** - *Técnicos Administrativos*
 
 ### Consultoria
