@@ -13,8 +13,8 @@ Processos licitatórios costumam exigir muito tempo, dinheiro e burocracia. A fi
 
 ## Checklist
 ### 1º Ciclo: Preparação e Planejamento
-- [x] Reunião com stakeholders (10/03/2020)
-- [x] [Formulário descrição do problema](/sge/problem-description.md) (17/03/2020)
+- [x] Reunião com stakeholders (10/03/2020) (2020.1)
+- [x] [Formulário descrição do problema](/sge/problem-description.md) (17/03/2020) (2020.1)
 - [ ] Elaboração de Kickoff
 - [ ] Apresentação Kickoff (31/03/2020)
 - [ ] Diário de atividades
