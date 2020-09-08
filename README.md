@@ -9,16 +9,17 @@ Já os fornecedores são escolhidos por meio dos critérios de avaliação de me
 Para mais informações: (https://www.azi.com.br/blog/compras-governamentais-o-que-e/).
 
 ## Justificativa
-Processos licitatórios costumam exigir muito tempo, dinheiro e burocracia. A fim de otimizar este processo os órgãos públicos costumam realizar *"carona"* em processos de outros órgãos governamentais de abrangência equivalente ou superior à sua. O Instituto Federal de Pernambuco (IFPE), por exemplo, possui 16 campus, todos com autonomia administrativa, financeira e patrimonial, e cada um destes campi precisam se submeter ao ato de licitação para aquisição de bens, serviços e produtos. Tendo em vista que as necessidades dos órgãos não ocorrem de maneira simultânea são demandados esforços adicionais na comunicação e planejamento das aquisições conjuntas, principalmente, para bens variados em pequenos volumes. 
+Processos licitatórios costumam exigir muito tempo, dinheiro e burocracia. A fim de otimizar este processo os órgãos públicos costumam realizar *"carona"* em processos de outros órgãos governamentais de abrangência equivalente ou superior à sua. O Instituto Federal de Pernambuco (IFPE), por exemplo, possui 17 campus, todos com autonomia administrativa, financeira e patrimonial, e cada um destes campi precisam se submeter ao ato de licitação para aquisição de bens, serviços e produtos. Tendo em vista que as necessidades dos órgãos não ocorrem de maneira simultânea são demandados esforços adicionais na comunicação e planejamento das aquisições conjuntas, principalmente, para bens variados em pequenos volumes. 
 
 ## Checklist
 ### 1º Ciclo: Preparação e Planejamento
-- [x] Reunião com stakeholders (10/03/2020) (2020.1)
-- [x] [Formulário descrição do problema](/sge/problem-description.md) (17/03/2020) (2020.1)
-- [ ] Elaboração de Kickoff
-- [ ] Apresentação Kickoff (31/03/2020)
+- [x] Reunião com stakeholders (01/09/2020)
+- [x] [Formulário descrição do problema](/sge/problem-description.md) (04/09/2020)
+- [x] [Project Model Canvas](/pgp/pmc-canvas.pdf)
+- [x] [Kickoff](/pgp/kickoff.pdf)
+- [x] [Apresentação Kickoff](/sge/kickoff-presentation.pdf) (08/09/2020)
 - [ ] Diário de atividades
-- [ ] Avaliação 360º
+- [x] Avaliação 360º (05/09/2020)
 
 ### 2º Ciclo: Entedimento do Problema e Análise da Solução
 - [ ] Mapeamento dos fatores críticos de sucesso na implatação do SI
@@ -28,7 +29,7 @@ Processos licitatórios costumam exigir muito tempo, dinheiro e burocracia. A fi
 - [ ] Modelo do processo de negócio em i*
 - [ ] Diagrama de Ishikawa do Modelo do Processo de Negócio AS-IS
 - [ ] Elaboração 1º Status Report
-- [ ] Apresentação 1º Status Report (28/04/2020)
+- [ ] Apresentação 1º Status Report (29/09/2020)
 - [ ] Diário de atividades
 - [ ] Avaliação 360º
 
@@ -39,7 +40,7 @@ Processos licitatórios costumam exigir muito tempo, dinheiro e burocracia. A fi
 - [ ] Modelo do processo de negócio TO-BE BPMN
 - [ ] Modelo do processo de negócio TO-BE i*
 - [ ] Elaboração 2º Status Report
-- [ ] Apresentação 2º Status Report (26/05/2020)
+- [ ] Apresentação 2º Status Report (20/10/2020)
 - [ ] Diário de atividades
 - [ ] Avaliação 360º
 
@@ -48,7 +49,7 @@ Processos licitatórios costumam exigir muito tempo, dinheiro e burocracia. A fi
 - [ ] Plano final do projeto (Orçamento, Riscos, Qualidade, Implantação)
 - [ ] Indicadores de desempenho do processo
 - [ ] Elaboração Final Report
-- [ ] Apresentação Final Report (25/06/2020)
+- [ ] Apresentação Final Report (13/11/2020)
 - [ ] Diário de atividades
 - [ ] Avaliação 360º
 
