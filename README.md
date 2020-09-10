@@ -16,7 +16,7 @@ Processos licitatórios costumam exigir muito tempo, dinheiro e burocracia. A fi
 - [x] Reunião com stakeholders (01/09/2020)
 - [x] [Formulário descrição do problema](/sge/problem-description.md) (04/09/2020)
 - [x] [Project Model Canvas](/pgp/pmc-canvas.pdf)
-- [x] [Kickoff](/pgp/kickoff.pdf)
+- [x] [Termo de Abertura](/pgp/termo-de-abertura.pdf)
 - [x] [Apresentação Kickoff](/sge/kickoff-presentation.pdf) (08/09/2020)
 - [ ] Diário de atividades
 - [x] Avaliação 360º (05/09/2020)
