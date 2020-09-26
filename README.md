@@ -18,13 +18,13 @@ Processos licitatórios costumam exigir muito tempo, dinheiro e burocracia. A fi
 - [x] [Project Model Canvas](/pgp/pmc-canvas.pdf)
 - [x] [Termo de Abertura](/pgp/termo-de-abertura.pdf)
 - [x] [Apresentação Kickoff](/sge/kickoff-presentation.pdf) (08/09/2020)
-- [ ] Diário de atividades
+- [x] Diário de atividades
 - [x] Avaliação 360º (05/09/2020)
 
 ### 2º Ciclo: Entedimento do Problema e Análise da Solução
-- [ ] Mapeamento dos fatores críticos de sucesso na implatação do SI
+- [x] Mapeamento dos fatores críticos de sucesso na implatação do SI
 - [ ] Plano preliminar do projeto (Escopo, Recursos, Comunicação)
-- [ ] Modelo do processo de negócio AS-IS
+- [x] Modelo do processo de negócio AS-IS
 - [ ] Modelo do processo de negócio em BPMN
 - [ ] Modelo do processo de negócio em i*
 - [ ] Diagrama de Ishikawa do Modelo do Processo de Negócio AS-IS
