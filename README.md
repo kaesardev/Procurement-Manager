@@ -23,22 +23,18 @@ Processos licitatórios costumam exigir muito tempo, dinheiro e burocracia. A fi
 
 ### 2º Ciclo: Entedimento do Problema e Análise da Solução
 - [x] Mapeamento dos fatores críticos de sucesso na implatação do SI
-- [ ] Plano preliminar do projeto (Escopo, Recursos, Comunicação)
+- [x] Plano preliminar do projeto (Escopo, Recursos, Comunicação)
 - [x] Modelo do processo de negócio AS-IS
-- [ ] Modelo do processo de negócio em BPMN
-- [ ] Modelo do processo de negócio em i*
-- [ ] Diagrama de Ishikawa do Modelo do Processo de Negócio AS-IS
 - [ ] Elaboração 1º Status Report
 - [ ] Apresentação 1º Status Report (29/09/2020)
 - [ ] Diário de atividades
 - [ ] Avaliação 360º
 
 ### 3º Ciclo: Design da Solução
-- [ ] Mapeamento de stakeholders RACI e Matriz de Interesse/Poder
+- [x] Mapeamento de stakeholders RACI e Matriz de Interesse/Poder
 - [ ] Lista de requisitos
 - [ ] Plano preliminar do projeto (Escopo, Requisitos, Cronograma)
-- [ ] Modelo do processo de negócio TO-BE BPMN
-- [ ] Modelo do processo de negócio TO-BE i*
+- [ ] Modelo do processo de negócio TO-BE
 - [ ] Elaboração 2º Status Report
 - [ ] Apresentação 2º Status Report (20/10/2020)
 - [ ] Diário de atividades
