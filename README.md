@@ -23,8 +23,8 @@ Processos licitatórios costumam exigir muito tempo, dinheiro e burocracia. A fi
 
 ### 2º Ciclo: Entedimento do Problema e Análise da Solução
 - [x] Mapeamento dos fatores críticos de sucesso na implatação do SI
-- [x] Plano preliminar do projeto (Escopo, Recursos, Comunicação)
-- [x] Modelo do processo de negócio AS-IS
+- [x] [Plano preliminar do projeto (Escopo, Recursos, Comunicação)](/pgp)(26/09/2020)
+- [x] [Modelo do processo de negócio AS-IS](/gpn/Modelo%20AS-IS%20-%20Processo%20de%20Planejamento%20de%20Compra.pdf) (22/09/2020)
 - [ ] Elaboração 1º Status Report
 - [ ] Apresentação 1º Status Report (29/09/2020)
 - [ ] Diário de atividades
