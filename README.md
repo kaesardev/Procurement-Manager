@@ -64,3 +64,4 @@ Processos licitatórios costumam exigir muito tempo, dinheiro e burocracia. A fi
 * **José Bruno** - *Analista de Comunicação* - [brunofariasdeo](https://github.com/brunofariasdeo)
 * **João Victor** - *Analista de Modelagem* - [joaomarkis](https://github.com/joaomarkis)
 * **Eraldo José** - *Analista de Sistemas* - [NetoCassimiro](https://github.com/NetoCassimiro)
+## Link para o Trello (backlog) ->  https://trello.com/b/vXXo9F38/planejamento-de-compras
