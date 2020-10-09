@@ -25,15 +25,15 @@ Processos licitatórios costumam exigir muito tempo, dinheiro e burocracia. A fi
 - [x] Mapeamento dos fatores críticos de sucesso na implatação do SI
 - [x] [Plano preliminar do projeto (Escopo, Recursos, Comunicação)](/pgp)(26/09/2020)
 - [x] [Modelo do processo de negócio AS-IS](/gpn/Modelo%20AS-IS%20-%20Processo%20de%20Planejamento%20de%20Compra.pdf) (22/09/2020)
-- [ ] Elaboração 1º Status Report
-- [ ] Apresentação 1º Status Report (29/09/2020)
-- [ ] Diário de atividades
-- [ ] Avaliação 360º
+- [x] Elaboração 1º Status Report
+- [x] Apresentação 1º Status Report (29/09/2020)
+- [x] Diário de atividades
+- [x] Avaliação 360º
 
 ### 3º Ciclo: Design da Solução
 - [x] Mapeamento de stakeholders RACI e Matriz de Interesse/Poder
 - [ ] Lista de requisitos
-- [ ] Plano preliminar do projeto (Escopo, Requisitos, Cronograma)
+- [x] Plano preliminar do projeto (Escopo, Requisitos, Cronograma)
 - [ ] Modelo do processo de negócio TO-BE
 - [ ] Elaboração 2º Status Report
 - [ ] Apresentação 2º Status Report (20/10/2020)
