@@ -4,3 +4,9 @@
 *.xlsx
 *.ppt
 *.pptx
+*/*.doc
+*/*.docx
+*/*.xls
+*/*.xlsx
+*/*.ppt
+*/*.pptx
