@@ -32,10 +32,11 @@ Processos licitatórios costumam exigir muito tempo, dinheiro e burocracia. A fi
 
 ### 3º Ciclo: Design da Solução
 - [x] Mapeamento de stakeholders RACI e Matriz de Interesse/Poder
-- [ ] Lista de requisitos
+- [x] [Diagrama Ishikawa](/gpn/Diagrama%20Ishikawa.pdf)
+- [x] Lista de requisitos
 - [x] Plano preliminar do projeto (Escopo, Requisitos, Cronograma)
 - [ ] Modelo do processo de negócio TO-BE
-- [ ] Elaboração 2º Status Report
+- [x] Elaboração 2º Status Report
 - [ ] Apresentação 2º Status Report (20/10/2020)
 - [ ] Diário de atividades
 - [ ] Avaliação 360º
