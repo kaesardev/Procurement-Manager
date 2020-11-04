@@ -42,9 +42,10 @@ Processos licitatórios costumam exigir muito tempo, dinheiro e burocracia. A fi
 - [x] Avaliação 360º
 
 ### 4º Ciclo: Entrega da Solução
-- [ ] Mapeamento entre Solução e Valores de negócio
-- [ ] Plano final do projeto (Orçamento, Riscos, Qualidade, Implantação)
-- [ ] Indicadores de desempenho do processo
+- [x] Mapeamento entre Solução e Valores de negócio
+- [x] Modelo do processo de negócio i*
+- [ ] Plano final do projeto
+- [x] Indicadores de desempenho do processo
 - [ ] Elaboração Final Report
 - [ ] Apresentação Final Report (13/11/2020)
 - [ ] Diário de atividades
