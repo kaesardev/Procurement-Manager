@@ -35,16 +35,17 @@ Processos licitatórios costumam exigir muito tempo, dinheiro e burocracia. A fi
 - [x] [Diagrama Ishikawa](/gpn/Diagrama%20Ishikawa.pdf)
 - [x] Lista de requisitos
 - [x] Plano preliminar do projeto (Escopo, Requisitos, Cronograma)
-- [ ] Modelo do processo de negócio TO-BE
+- [x] Modelo do processo de negócio TO-BE
 - [x] Elaboração 2º Status Report
-- [ ] Apresentação 2º Status Report (20/10/2020)
-- [ ] Diário de atividades
-- [ ] Avaliação 360º
+- [x] [Apresentação 2º Status Report](/sge/2-status-report-presentation.pdf) (20/10/2020)
+- [x] Diário de atividades
+- [x] Avaliação 360º
 
 ### 4º Ciclo: Entrega da Solução
-- [ ] Mapeamento entre Solução e Valores de negócio
-- [ ] Plano final do projeto (Orçamento, Riscos, Qualidade, Implantação)
-- [ ] Indicadores de desempenho do processo
+- [x] Mapeamento entre Solução e Valores de negócio
+- [x] Modelo do processo de negócio i*
+- [ ] Plano final do projeto
+- [x] Indicadores de desempenho do processo
 - [ ] Elaboração Final Report
 - [ ] Apresentação Final Report (13/11/2020)
 - [ ] Diário de atividades
