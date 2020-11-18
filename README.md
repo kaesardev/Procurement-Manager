@@ -43,13 +43,13 @@ Processos licitatórios costumam exigir muito tempo, dinheiro e burocracia. A fi
 
 ### 4º Ciclo: Entrega da Solução
 - [x] Mapeamento entre Solução e Valores de negócio
-- [x] Modelo do processo de negócio i*
-- [ ] Plano final do projeto
+- [x] [Modelo do processo de negócio i*](/gpn/Diagrama%20iStar.png)
+- [ ] Plano final do projeto (22/11/2020)
 - [x] Indicadores de desempenho do processo
-- [ ] Elaboração Final Report
-- [ ] Apresentação Final Report (13/11/2020)
-- [ ] Diário de atividades
-- [ ] Avaliação 360º
+- [x] Elaboração Final Report
+- [x] [Apresentação Final Report](/sge/final-presentation.pdf) (13/11/2020)
+- [x] Diário de atividades
+- [x] Avaliação 360º
 
 ## Stakeholders
 ### Cliente
