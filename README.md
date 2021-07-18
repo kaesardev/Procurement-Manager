@@ -62,7 +62,7 @@ Processos licitatórios costumam exigir muito tempo, dinheiro e burocracia. A fi
 * **Alexandre Vasconcelos** - *Planejamento de Gerenciamento de Projetos*
 
 ### Equipe
-* **Júlio Barros** - *Gerente de Projeto* - [KaesarZ](https://github.com/KaesarZ)
+* **Júlio Barros** - *Gerente de Projeto* - [kaesardev](https://github.com/kaesardev)
 * **José Bruno** - *Analista de Comunicação* - [brunofariasdeo](https://github.com/brunofariasdeo)
 * **João Victor** - *Analista de Modelagem* - [joaomarkis](https://github.com/joaomarkis)
 * **Eraldo José** - *Analista de Sistemas* - [NetoCassimiro](https://github.com/NetoCassimiro)
